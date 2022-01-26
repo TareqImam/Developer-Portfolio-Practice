@@ -7,7 +7,7 @@ body{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
-section{
+.flex-sec{
     display: flex;
     margin-bottom: 50px;
 }
